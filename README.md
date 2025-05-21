@@ -1,4 +1,4 @@
-# Malicious-Traffic-Entering-the-Network
+# Malicious Traffic Entering the Network
 In this project we're going to see if there were any successful malicious traffic entering our network.
 
 > [!note]
